@@ -1,0 +1,17 @@
+D:\練習\C# 練習\Form2\Form2\bin\Debug\net8.0-windows\Form2.exe
+D:\練習\C# 練習\Form2\Form2\bin\Debug\net8.0-windows\Form2.deps.json
+D:\練習\C# 練習\Form2\Form2\bin\Debug\net8.0-windows\Form2.runtimeconfig.json
+D:\練習\C# 練習\Form2\Form2\bin\Debug\net8.0-windows\Form2.dll
+D:\練習\C# 練習\Form2\Form2\bin\Debug\net8.0-windows\Form2.pdb
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.Form1.resources
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.Properties.Resources.resources
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.csproj.GenerateResource.cache
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.AssemblyInfo.cs
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.dll
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\refint\Form2.dll
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.pdb
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\Form2.genruntimeconfig.cache
+D:\練習\C# 練習\Form2\Form2\obj\Debug\net8.0-windows\ref\Form2.dll

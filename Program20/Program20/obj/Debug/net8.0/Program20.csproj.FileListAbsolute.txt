@@ -1,0 +1,14 @@
+D:\練習\C# 練習\Program20\Program20\bin\Debug\net8.0\Program20.exe
+D:\練習\C# 練習\Program20\Program20\bin\Debug\net8.0\Program20.deps.json
+D:\練習\C# 練習\Program20\Program20\bin\Debug\net8.0\Program20.runtimeconfig.json
+D:\練習\C# 練習\Program20\Program20\bin\Debug\net8.0\Program20.dll
+D:\練習\C# 練習\Program20\Program20\bin\Debug\net8.0\Program20.pdb
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.AssemblyInfo.cs
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.dll
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\refint\Program20.dll
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.pdb
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\Program20.genruntimeconfig.cache
+D:\練習\C# 練習\Program20\Program20\obj\Debug\net8.0\ref\Program20.dll

@@ -1,0 +1,17 @@
+D:\練習\C# 練習\Formstest2\Formstest2\bin\Debug\net8.0-windows\Formstest2.exe
+D:\練習\C# 練習\Formstest2\Formstest2\bin\Debug\net8.0-windows\Formstest2.deps.json
+D:\練習\C# 練習\Formstest2\Formstest2\bin\Debug\net8.0-windows\Formstest2.runtimeconfig.json
+D:\練習\C# 練習\Formstest2\Formstest2\bin\Debug\net8.0-windows\Formstest2.dll
+D:\練習\C# 練習\Formstest2\Formstest2\bin\Debug\net8.0-windows\Formstest2.pdb
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.Form1.resources
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.Properties.Resources.resources
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.csproj.GenerateResource.cache
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.AssemblyInfo.cs
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.dll
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\refint\Formstest2.dll
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.pdb
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\Formstest2.genruntimeconfig.cache
+D:\練習\C# 練習\Formstest2\Formstest2\obj\Debug\net8.0-windows\ref\Formstest2.dll

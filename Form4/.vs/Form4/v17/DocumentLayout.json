@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\form4\\form4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|solutionrelative:form4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\form4\\form4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|solutionrelative:form4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\form4\\form4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EA4B31C-2930-48DE-A7A1-31D35C9A7794}|Form4\\Form4.csproj|solutionrelative:form4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form4\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form4\\Form1.Designer.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAIAwwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:46:56.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form4\\Form1.cs",
+              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.cs",
+              "RelativeToolTip": "Form4\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:29:03.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form4\\Form1.cs",
+              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Form4\\Form4\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Form4\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T02:26:49.814Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

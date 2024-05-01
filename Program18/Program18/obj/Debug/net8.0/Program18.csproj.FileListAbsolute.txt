@@ -1,0 +1,14 @@
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.AssemblyInfo.cs
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Program18\Program18\bin\Debug\net8.0\Program18.exe
+D:\練習\C# 練習\Program18\Program18\bin\Debug\net8.0\Program18.deps.json
+D:\練習\C# 練習\Program18\Program18\bin\Debug\net8.0\Program18.runtimeconfig.json
+D:\練習\C# 練習\Program18\Program18\bin\Debug\net8.0\Program18.dll
+D:\練習\C# 練習\Program18\Program18\bin\Debug\net8.0\Program18.pdb
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.dll
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\refint\Program18.dll
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.pdb
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\Program18.genruntimeconfig.cache
+D:\練習\C# 練習\Program18\Program18\obj\Debug\net8.0\ref\Program18.dll

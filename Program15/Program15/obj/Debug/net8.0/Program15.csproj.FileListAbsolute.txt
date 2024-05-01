@@ -1,0 +1,14 @@
+D:\練習\C# 練習\Program15\Program15\bin\Debug\net8.0\Program15.exe
+D:\練習\C# 練習\Program15\Program15\bin\Debug\net8.0\Program15.deps.json
+D:\練習\C# 練習\Program15\Program15\bin\Debug\net8.0\Program15.runtimeconfig.json
+D:\練習\C# 練習\Program15\Program15\bin\Debug\net8.0\Program15.dll
+D:\練習\C# 練習\Program15\Program15\bin\Debug\net8.0\Program15.pdb
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.AssemblyInfo.cs
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.dll
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\refint\Program15.dll
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.pdb
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\Program15.genruntimeconfig.cache
+D:\練習\C# 練習\Program15\Program15\obj\Debug\net8.0\ref\Program15.dll

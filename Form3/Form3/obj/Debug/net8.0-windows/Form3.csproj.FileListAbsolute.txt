@@ -1,0 +1,17 @@
+D:\練習\C# 練習\Form3\Form3\bin\Debug\net8.0-windows\Form3.exe
+D:\練習\C# 練習\Form3\Form3\bin\Debug\net8.0-windows\Form3.deps.json
+D:\練習\C# 練習\Form3\Form3\bin\Debug\net8.0-windows\Form3.runtimeconfig.json
+D:\練習\C# 練習\Form3\Form3\bin\Debug\net8.0-windows\Form3.dll
+D:\練習\C# 練習\Form3\Form3\bin\Debug\net8.0-windows\Form3.pdb
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.Form1.resources
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.Properties.Resources.resources
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.csproj.GenerateResource.cache
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.AssemblyInfo.cs
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.dll
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\refint\Form3.dll
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.pdb
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\Form3.genruntimeconfig.cache
+D:\練習\C# 練習\Form3\Form3\obj\Debug\net8.0-windows\ref\Form3.dll

@@ -1,0 +1,14 @@
+D:\練習\C# 練習\Program9\Program9\bin\Debug\net8.0\Program9.exe
+D:\練習\C# 練習\Program9\Program9\bin\Debug\net8.0\Program9.deps.json
+D:\練習\C# 練習\Program9\Program9\bin\Debug\net8.0\Program9.runtimeconfig.json
+D:\練習\C# 練習\Program9\Program9\bin\Debug\net8.0\Program9.dll
+D:\練習\C# 練習\Program9\Program9\bin\Debug\net8.0\Program9.pdb
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.AssemblyInfo.cs
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.dll
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\refint\Program9.dll
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.pdb
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\Program9.genruntimeconfig.cache
+D:\練習\C# 練習\Program9\Program9\obj\Debug\net8.0\ref\Program9.dll

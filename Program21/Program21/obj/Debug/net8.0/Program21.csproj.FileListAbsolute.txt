@@ -1,0 +1,14 @@
+D:\練習\C# 練習\Program21\Program21\bin\Debug\net8.0\Program21.exe
+D:\練習\C# 練習\Program21\Program21\bin\Debug\net8.0\Program21.deps.json
+D:\練習\C# 練習\Program21\Program21\bin\Debug\net8.0\Program21.runtimeconfig.json
+D:\練習\C# 練習\Program21\Program21\bin\Debug\net8.0\Program21.dll
+D:\練習\C# 練習\Program21\Program21\bin\Debug\net8.0\Program21.pdb
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.GeneratedMSBuildEditorConfig.editorconfig
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.AssemblyInfoInputs.cache
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.AssemblyInfo.cs
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.csproj.CoreCompileInputs.cache
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.dll
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\refint\Program21.dll
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.pdb
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\Program21.genruntimeconfig.cache
+D:\練習\C# 練習\Program21\Program21\obj\Debug\net8.0\ref\Program21.dll

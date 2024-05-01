@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Program17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB6F722-7C03-4CCC-A4B3-19702B884DCC}|Program17\\Program17.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\program17\\program17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB6F722-7C03-4CCC-A4B3-19702B884DCC}|Program17\\Program17.csproj|solutionrelative:program17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFB6F722-7C03-4CCC-A4B3-19702B884DCC}|Program17\\Program17.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\program17\\program17\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFB6F722-7C03-4CCC-A4B3-19702B884DCC}|Program17\\Program17.csproj|solutionrelative:program17\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Program17\\Program17\\Person.cs",
+              "RelativeDocumentMoniker": "Program17\\Person.cs",
+              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Program17\\Program17\\Person.cs",
+              "RelativeToolTip": "Program17\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:43:32.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Program17\\Program17\\Program.cs",
+              "RelativeDocumentMoniker": "Program17\\Program.cs",
+              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Program17\\Program17\\Program.cs",
+              "RelativeToolTip": "Program17\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T05:42:42.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
