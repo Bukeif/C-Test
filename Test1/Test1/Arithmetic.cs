@@ -1,4 +1,4 @@
-﻿
+
 namespace Arithmetic
 {
     public class ArithmeticOperations
@@ -10,6 +10,8 @@ namespace Arithmetic
                 return a;
             int sum = a ^ b;
             int carry = (a & b) << 1;
+            Console.WriteLine("目前的 Sum : " + (sum));
+            Console.WriteLine("目前的值 Carry : " + (carry));
             return Add(sum, carry);
         }
 
@@ -17,6 +19,8 @@ namespace Arithmetic
         public static int Sub(int a, int b)
         {
             b = Add(~b, 1);
+            Console.WriteLine("目前的值 b : " + (b));
+
             return Add(a, b);
         }
 
@@ -26,7 +30,7 @@ namespace Arithmetic
             int result = 0;
             for (int i = 0; i < b; i++)
             {
-                result += a;
+                result = Add(result, a);
             }
             return result;
         }
@@ -38,8 +42,8 @@ namespace Arithmetic
 
             while (remainder >= b)
             {
-                remainder -= b;
-                quotient++;
+                remainder = Sub(remainder, b);
+                quotient = Add(quotient, 1);
             }
             return quotient;
         }
@@ -49,8 +53,8 @@ namespace Arithmetic
             int a = 5;
             int b = 3;
 
-            int product = Multiply(a, b);
-            Console.WriteLine($"{a}*{b} = {product}");
+            int product = Divide(a, b);
+            Console.WriteLine($"{a}/{b} = {product}");
         }
 
     }
