@@ -1,13 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Test1\\",
+  "WorkspaceRootPath": "D:\\MyTest\\gitrepo\\Test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\test1\\test1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|d:\\mytest\\gitrepo\\test1\\test1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|solutionrelative:test1\\arithmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|d:\\\u7DF4\u7FD2\\c# \u7DF4\u7FD2\\test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|D:\\MyTest\\gitrepo\\Test1\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3081CCDB-ED6F-4261-B7CC-63F347F89BB6}|Test1\\Test1.csproj|solutionrelative:test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -23,23 +26,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Microsoft.VisualStudio.Offline.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ToolTip": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-08T00:58:19.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Arithmetic.cs",
-              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Test1\\Test1\\Arithmetic.cs",
+              "DocumentMoniker": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Arithmetic.cs",
               "RelativeDocumentMoniker": "Test1\\Arithmetic.cs",
-              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Test1\\Test1\\Arithmetic.cs",
+              "ToolTip": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Arithmetic.cs",
               "RelativeToolTip": "Test1\\Arithmetic.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAywBQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T08:59:19.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Test1\\Test1\\Program.cs",
+              "DocumentMoniker": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Program.cs",
               "RelativeDocumentMoniker": "Test1\\Program.cs",
-              "ToolTip": "D:\\\u7DF4\u7FD2\\C# \u7DF4\u7FD2\\Test1\\Test1\\Program.cs",
+              "ToolTip": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Program.cs",
               "RelativeToolTip": "Test1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -8,26 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\az465\\.nuget\\packages\\": {}
+    "D:\\Packages_File\\NuGet\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\練習\\C# 練習\\Test1\\Test1\\Test1.csproj",
+      "projectUniqueName": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Test1.csproj",
       "projectName": "Test1",
-      "projectPath": "D:\\練習\\C# 練習\\Test1\\Test1\\Test1.csproj",
-      "packagesPath": "C:\\Users\\az465\\.nuget\\packages\\",
-      "outputPath": "D:\\練習\\C# 練習\\Test1\\Test1\\obj\\",
+      "projectPath": "D:\\MyTest\\gitrepo\\Test1\\Test1\\Test1.csproj",
+      "packagesPath": "D:\\Packages_File\\NuGet\\packages\\",
+      "outputPath": "D:\\MyTest\\gitrepo\\Test1\\Test1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\az465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

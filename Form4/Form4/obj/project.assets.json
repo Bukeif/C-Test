@@ -8,19 +8,24 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\az465\\.nuget\\packages\\": {}
+    "D:\\Packages_File\\NuGet\\packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\練習\\C# 練習\\Form4\\Form4\\Form4.csproj",
+      "projectUniqueName": "D:\\MyTest\\gitrepo\\Form4\\Form4\\Form4.csproj",
       "projectName": "Form4",
-      "projectPath": "D:\\練習\\C# 練習\\Form4\\Form4\\Form4.csproj",
-      "packagesPath": "C:\\Users\\az465\\.nuget\\packages\\",
-      "outputPath": "D:\\練習\\C# 練習\\Form4\\Form4\\obj\\",
+      "projectPath": "D:\\MyTest\\gitrepo\\Form4\\Form4\\Form4.csproj",
+      "packagesPath": "D:\\Packages_File\\NuGet\\packages",
+      "outputPath": "D:\\MyTest\\gitrepo\\Form4\\Form4\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\az465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
